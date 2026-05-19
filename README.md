@@ -1,4 +1,4 @@
-# Python and the Raspberry Pi with VS Code (Remote SSH)
+#  🐍 Python and the Raspberry Pi with VS Code (Remote SSH)
 
 In the previous activity, you learned how to connect to your Raspberry Pi over SSH using PuTTY, run basic Bash commands, and use Git and GitHub directly on the Pi.  In this activity, you will move your development workflow into Visual Studio Code on your PC while your code still runs on the Raspberry Pi.
 
